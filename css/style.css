@@ -1,0 +1,21 @@
+#pat{
+
+
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+    ;
+    
+    background-color: rgb(236, 89, 89);
+    font-style: inherit;
+
+}
+
+
+body {
+    background-color: rgb(153, 221, 212);
+  }
+
+  img {
+    float: left;
+  }
+  
